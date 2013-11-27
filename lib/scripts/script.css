@@ -1,0 +1,17 @@
+#panel1{ 
+   width:100px; 
+   height: 300px; 
+   background:red; float:left; 
+}
+
+#panel2 { 
+   width:300px; 
+   height:50px; 
+   background:blue; 
+   float:left
+}
+#panel3 { 
+   height:600px; 
+   width:600px; 
+   background:green 
+}
